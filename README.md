@@ -8,9 +8,8 @@ Explore the names and attributes of Lord Kālabhairava through searchable collec
 
 ## Visit the website
 
-**[Open Kālabhairava Names](https://YOUR-DEPLOYED-WEBSITE-URL)**
+**[Open Kālabhairava Names](https://mradhikari.github.io/kaalbhairav/)**
 
-> Replace `https://YOUR-DEPLOYED-WEBSITE-URL` with your actual deployed website URL after hosting. This is the main link visitors should use.
 
 ## Features
 
@@ -31,20 +30,6 @@ This project is a standalone HTML website. It does not require a framework, pack
 2. Keep `index.html` in the repository's root directory.
 3. Open `index.html` in a modern web browser.
 
-## Deploying the website
-
-You can host this static website using GitHub Pages or another static hosting provider.
-
-### GitHub Pages
-
-1. Push `index.html` to the root of your GitHub repository.
-2. Open the repository's **Settings → Pages**.
-3. Under **Build and deployment**, select **Deploy from a branch**.
-4. Select your deployment branch (usually `main`) and the root folder (`/`).
-5. Save and wait for GitHub Pages to publish the site.
-6. Copy the published URL and replace the placeholder link in the **Visit the website** section above.
-
-Your website will be available at the URL provided by GitHub Pages. Keep the README link updated so visitors can open the live website directly from the repository.
 
 ## Project structure
 
